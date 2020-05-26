@@ -4,3 +4,10 @@ body {
   font-family: sans-serif;
   background: #fafafa;
 }
+
+#ago {
+  color: gray;
+  display: flex;
+  margin-left: 15px;
+  font-size: small;
+}
